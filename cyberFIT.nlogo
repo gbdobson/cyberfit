@@ -188,7 +188,7 @@ to generateVuls
         if vul = 0
         [
           let t1 0
-          set t1 random 20
+          set t1 random 100
           ;;show t1
           if environment = "base"
           [
